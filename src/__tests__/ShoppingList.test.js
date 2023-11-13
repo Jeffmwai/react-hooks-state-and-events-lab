@@ -1,3 +1,4 @@
+// ShoppingList.test.js
 import "@testing-library/jest-dom";
 import { render, screen, fireEvent } from "@testing-library/react";
 import ShoppingList from "../components/ShoppingList";
